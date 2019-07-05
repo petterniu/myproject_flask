@@ -9,3 +9,4 @@ def hehe():
     retun 'master 分支上添加的换'
 def min():
     return True
+"nihao"
