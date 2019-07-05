@@ -5,3 +5,5 @@ def cheng():
     return 1
 def add():
     return '错误'
+def min():
+    return True
